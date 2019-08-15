@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">DeliverCart</string>
+
+
+    <string-array name="WalmartItems">
+        <item>Rice </item>
+        <item>Oil</item>
+        <item> Onions</item>
+        <item>Garlic</item>
+       <item>Bread</item>
+        <item>Pasta</item>
+        <item>Butter</item>
+        <item>Egg</item>
+        <item>Honey </item>
+        <item>Vinegar</item>
+        <item>Sugar</item>
+        <item>Yogurt</item>
+        <item>Pepper</item>
+        <item>Salt</item>
+        <item>White beans</item>
+        <item>Cheese</item>
+    </string-array>
+    <string-array name="LoblawsItems">
+  <item>Oil</item>
+        <item> Onions</item>
+    <item>Garlic</item>
+    <item>Bread</item>
+    <item>Pasta</item>
+    <item>Butter</item>
+    <item>Egg</item>
+    <item>Honey </item>
+    <item>Vinegar</item>
+    <item>Sugar</item>
+    <item>Yogurt</item>
+    <item>Pepper</item>
+    <item>Salt</item>
+    <item>White beans</item>
+    <item>Cheese</item>
+
+</string-array>
+    <string-array name="ZehrsItems">
+<item>Bread</item>
+<item> Onions</item>
+<item>Garlic</item>
+<item>Bread</item>
+<item>Pasta</item>
+<item>Butter</item>
+<item>Egg</item>
+<item>Honey </item>
+<item>Vinegar</item>
+<item>Sugar</item>
+<item>Yogurt</item>
+<item>Pepper</item>
+<item>Salt</item>
+<item>White beans</item>
+<item>Cheese</item>
+
+    </string-array>
+<string-array name="CanadiantireItems">
+<item>Tire</item>
+<item> Car Mats</item>
+<item>Engine Oil</item>
+<item>Car Cover</item>
+<item>Fry Pan </item>
+<item>Knife</item>
+<item>Celing fans</item>
+<item> Air Conditioners</item>
+<item>Electric fans</item>
+<item>Drillers</item>
+<item>Saws</item>
+<item>Sanders</item>
+<item>Hybrid Bikes</item>
+<item>Kids Bike</item>
+<item>Golf club sets</item>
+
+    </string-array>
+
+</resources>

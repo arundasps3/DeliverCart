@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893778024636",
+    "firebase_url": "https://delivercart.firebaseio.com",
+    "project_id": "delivercart",
+    "storage_bucket": "delivercart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893778024636:android:3fc9fea8c2866a74",
+        "android_client_info": {
+          "package_name": "com.arundas.delivercart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893778024636-bbpnaffua93knfs1s9rc3drbau7br441.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arundas.delivercart",
+            "certificate_hash": "78c8774da5a942facc20d4a064568b190fbe487f"
+          }
+        },
+        {
+          "client_id": "893778024636-h343euhi43d0rq7k2mbelu1vkm3brg9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpkK022F3dQCDGRldDLiIxsXl1Nf2sB3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893778024636-h343euhi43d0rq7k2mbelu1vkm3brg9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
